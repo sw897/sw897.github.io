@@ -18,8 +18,8 @@
     "zoom": 4,
     "bearing": 0,
     "pitch": 0,
-    "sprite": "https://newmapcloud.cn/mapdb/assets/sprites/sprite",
-    "glyphs": "https://newmapcloud.cn/mapdb/assets/glyphs/{fontstack}/{range}.pbf",
+    "sprite": "https://highmap.cn/nat_assets/mapdb/assets/sprites/sprite",
+    "glyphs": "https://highmap.cn/nat_assets/mapdb/assets/glyphs/{fontstack}/{range}.pbf",
     "sources": {
         "vectengxun": {
             "type": "raster",
