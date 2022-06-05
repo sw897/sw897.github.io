@@ -1,0 +1,52 @@
+{
+    "version": 8,
+    "name": "vec-tianditu",
+    "metadata": {
+        "mapbox:autocomposite": true,
+        "mapbox:type": "default",
+        "blackbird:maxzoom": 17,
+        "blackbird:minzoom": 0,
+        "blackbird:datasource": [{
+            "maxzoom": 17,
+            "mapnumber": "审图号:GS(2019)1719号(版权:自然资源部)"
+        }]
+    },
+    "center": [
+        117.12,
+        35.0
+    ],
+    "zoom": 4,
+    "bearing": 0,
+    "pitch": 0,
+    "sprite": "https://newmapcloud.cn/mapdb/assets/sprites/sprite",
+    "glyphs": "https://newmapcloud.cn/mapdb/assets/glyphs/{fontstack}/{range}.pbf",
+    "sources": {
+        "vectengxun": {
+            "type": "raster",
+            "scheme": "tms",
+            "tiles": [
+                "https://rt3.map.gtimg.com/realtimerender?z={z}&x={x}&y={y}&type=vector&style=0"
+            ],
+            "tileSize": 256
+        }
+    },
+    "layers": [{
+            "id": "background",
+            "type": "background",
+            "paint": {
+                "background-color": "#f2eae2"
+            }
+        },
+        {
+            "id": "vec-tx",
+            "type": "raster",
+            "source": "vectengxun",
+            "source-layer": "mapbox_vec"
+        }
+    ],
+    "created": 0,
+    "modified": 0,
+    "id": "vec-tianditu",
+    "draft": false,
+    "visibility": "public"
+}

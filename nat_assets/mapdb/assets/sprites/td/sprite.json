@@ -1,0 +1,870 @@
+{
+  "乔木林地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1170,
+    "y": 0
+  },
+  "乔木林地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1785,
+    "y": 720
+  },
+  "交通服务场站用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1842,
+    "y": 720
+  },
+  "交通服务场站用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2040,
+    "y": 1080
+  },
+  "人工牧草地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1285,
+    "y": 0
+  },
+  "人工牧草地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 360
+  },
+  "人工牧草地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1899,
+    "y": 720
+  },
+  "公共设施用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1956,
+    "y": 720
+  },
+  "公共设施用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2068,
+    "y": 1080
+  },
+  "公园与绿地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2013,
+    "y": 720
+  },
+  "公园与绿地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2096,
+    "y": 1080
+  },
+  "公路用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2070,
+    "y": 720
+  },
+  "公路用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2124,
+    "y": 1080
+  },
+  "其他园地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 0,
+    "y": 1260
+  },
+  "其他园地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 360
+  },
+  "其他园地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2127,
+    "y": 720
+  },
+  "其他林地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 115,
+    "y": 1260
+  },
+  "其他林地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 360
+  },
+  "其他林地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2184,
+    "y": 720
+  },
+  "其他草地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 230,
+    "y": 1260
+  },
+  "其他草地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 720
+  },
+  "其他草地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2241,
+    "y": 720
+  },
+  "内陆滩涂": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 345,
+    "y": 1260
+  },
+  "内陆滩涂-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2298,
+    "y": 720
+  },
+  "农村宅基地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 460,
+    "y": 1260
+  },
+  "农村宅基地-200": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "农村宅基地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2355,
+    "y": 720
+  },
+  "农村道路": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2412,
+    "y": 720
+  },
+  "农村道路-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2152,
+    "y": 1080
+  },
+  "冰川及永久积雪": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 575,
+    "y": 1260
+  },
+  "冰川及永久积雪-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2469,
+    "y": 720
+  },
+  "商业服务业设施用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2526,
+    "y": 720
+  },
+  "商业服务业设施用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2180,
+    "y": 1080
+  },
+  "城镇住宅用地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 690,
+    "y": 1260
+  },
+  "城镇住宅用地-200": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 0
+  },
+  "城镇住宅用地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2583,
+    "y": 720
+  },
+  "城镇村道路用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2640,
+    "y": 720
+  },
+  "城镇村道路用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2208,
+    "y": 1080
+  },
+  "天然牧草地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 805,
+    "y": 1260
+  },
+  "天然牧草地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 720
+  },
+  "天然牧草地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2697,
+    "y": 720
+  },
+  "工业用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2754,
+    "y": 720
+  },
+  "工业用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2236,
+    "y": 1080
+  },
+  "旱地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 920,
+    "y": 1260
+  },
+  "旱地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 720
+  },
+  "旱地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2811,
+    "y": 720
+  },
+  "机关团体新闻出版用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1440,
+    "y": 900
+  },
+  "机关团体新闻出版用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2264,
+    "y": 1080
+  },
+  "机场用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1497,
+    "y": 900
+  },
+  "机场用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2292,
+    "y": 1080
+  },
+  "果园": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1035,
+    "y": 1260
+  },
+  "果园-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 720
+  },
+  "果园-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1554,
+    "y": 900
+  },
+  "森林沼泽": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1150,
+    "y": 1260
+  },
+  "森林沼泽-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1611,
+    "y": 900
+  },
+  "橡胶园": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1265,
+    "y": 1260
+  },
+  "橡胶园-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 900
+  },
+  "橡胶园-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1668,
+    "y": 900
+  },
+  "水工建筑用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1725,
+    "y": 900
+  },
+  "水工建筑用地-16": {
+    "height": 30,
+    "pixelRatio": 1.8,
+    "width": 30,
+    "x": 2010,
+    "y": 1080
+  },
+  "水浇地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1782,
+    "y": 900
+  },
+  "水浇地-128": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 230,
+    "x": 1380,
+    "y": 1260
+  },
+  "水浇地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 900
+  },
+  "水浇地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1897,
+    "y": 900
+  },
+  "水浇地250": {
+    "height": 225,
+    "pixelRatio": 1.8,
+    "width": 450,
+    "x": 720,
+    "y": 0
+  },
+  "水田": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1610,
+    "y": 1260
+  },
+  "水田-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 900
+  },
+  "水田-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1954,
+    "y": 900
+  },
+  "沙地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1725,
+    "y": 1260
+  },
+  "沙地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2011,
+    "y": 900
+  },
+  "沟渠": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2068,
+    "y": 900
+  },
+  "沟渠-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2320,
+    "y": 1080
+  },
+  "沼泽地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1840,
+    "y": 1260
+  },
+  "沼泽地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2125,
+    "y": 900
+  },
+  "沼泽草地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1955,
+    "y": 1260
+  },
+  "沼泽草地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2182,
+    "y": 900
+  },
+  "沿海滩涂": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2070,
+    "y": 1260
+  },
+  "沿海滩涂-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2239,
+    "y": 900
+  },
+  "港口码头用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2296,
+    "y": 900
+  },
+  "港口码头用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2348,
+    "y": 1080
+  },
+  "灌丛沼泽": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2185,
+    "y": 1260
+  },
+  "灌丛沼泽-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2353,
+    "y": 900
+  },
+  "灌木林地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2300,
+    "y": 1260
+  },
+  "灌木林地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 900
+  },
+  "灌木林地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2410,
+    "y": 900
+  },
+  "物流仓储用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2467,
+    "y": 900
+  },
+  "物流仓储用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2376,
+    "y": 1080
+  },
+  "特殊用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2524,
+    "y": 900
+  },
+  "特殊用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2404,
+    "y": 1080
+  },
+  "田坎": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2581,
+    "y": 900
+  },
+  "田坎-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2432,
+    "y": 1080
+  },
+  "盐田": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2415,
+    "y": 1260
+  },
+  "盐田-200": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 360
+  },
+  "盐田-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2638,
+    "y": 900
+  },
+  "盐碱地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2530,
+    "y": 1260
+  },
+  "盐碱地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 1080
+  },
+  "盐碱地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2695,
+    "y": 900
+  },
+  "科教文卫用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2752,
+    "y": 900
+  },
+  "科教文卫用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2460,
+    "y": 1080
+  },
+  "空闲地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 2809,
+    "y": 900
+  },
+  "空闲地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2488,
+    "y": 1080
+  },
+  "竹林地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2645,
+    "y": 1260
+  },
+  "竹林地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 1080
+  },
+  "竹林地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1440,
+    "y": 1080
+  },
+  "管道运输用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1497,
+    "y": 1080
+  },
+  "管道运输用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2516,
+    "y": 1080
+  },
+  "红树林地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 2760,
+    "y": 1260
+  },
+  "红树林地-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 1080
+  },
+  "红树林地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1554,
+    "y": 1080
+  },
+  "茶园": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1440,
+    "y": 720
+  },
+  "茶园-200": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 1080
+  },
+  "茶园-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1611,
+    "y": 1080
+  },
+  "裸土地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1555,
+    "y": 720
+  },
+  "裸土地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1668,
+    "y": 1080
+  },
+  "裸岩石砺地": {
+    "height": 115,
+    "pixelRatio": 1.8,
+    "width": 115,
+    "x": 1670,
+    "y": 720
+  },
+  "裸岩石砺地-32": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1725,
+    "y": 1080
+  },
+  "设施农用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1782,
+    "y": 1080
+  },
+  "设施农用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2544,
+    "y": 1080
+  },
+  "轨道交通用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1839,
+    "y": 1080
+  },
+  "轨道交通用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2572,
+    "y": 1080
+  },
+  "采矿用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1896,
+    "y": 1080
+  },
+  "采矿用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2600,
+    "y": 1080
+  },
+  "铁路用地": {
+    "height": 57,
+    "pixelRatio": 1.8,
+    "width": 57,
+    "x": 1953,
+    "y": 1080
+  },
+  "铁路用地-16": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 2628,
+    "y": 1080
+  }
+}

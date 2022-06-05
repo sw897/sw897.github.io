@@ -1,0 +1,401 @@
+{
+  "人工牧草地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 0
+  },
+  "仓储用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 720,
+    "y": 1260
+  },
+  "住宿餐饮用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 748,
+    "y": 1260
+  },
+  "使领馆用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 776,
+    "y": 1260
+  },
+  "公共设施用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 804,
+    "y": 1260
+  },
+  "公园与绿地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 832,
+    "y": 1260
+  },
+  "公路用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 860,
+    "y": 1260
+  },
+  "其他商服用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 888,
+    "y": 1260
+  },
+  "其他园地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 360
+  },
+  "其他林地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 360
+  },
+  "其他草地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 720
+  },
+  "内陆滩涂": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 720
+  },
+  "军事设施用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 916,
+    "y": 1260
+  },
+  "农村宅基地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 944,
+    "y": 1260
+  },
+  "农村道路": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 972,
+    "y": 1260
+  },
+  "冰川及永久积雪": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 720
+  },
+  "医卫慈善用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1000,
+    "y": 1260
+  },
+  "商务金融用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1028,
+    "y": 1260
+  },
+  "城市": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "城镇住宅用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1056,
+    "y": 1260
+  },
+  "天然牧草地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 720
+  },
+  "宗教用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1084,
+    "y": 1260
+  },
+  "工业用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1112,
+    "y": 1260
+  },
+  "建制镇": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 0
+  },
+  "批发零售用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1140,
+    "y": 1260
+  },
+  "文体娱乐用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1168,
+    "y": 1260
+  },
+  "新闻出版用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1196,
+    "y": 1260
+  },
+  "旱地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 900
+  },
+  "有林地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 900
+  },
+  "机关团体用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1224,
+    "y": 1260
+  },
+  "机场用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1252,
+    "y": 1260
+  },
+  "村庄": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 360
+  },
+  "果园": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 900
+  },
+  "殡葬用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1280,
+    "y": 1260
+  },
+  "水工建筑用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1308,
+    "y": 1260
+  },
+  "水浇地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 900
+  },
+  "水田": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 1080
+  },
+  "沙地": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 360
+  },
+  "沟渠": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1336,
+    "y": 1260
+  },
+  "沼泽地": {
+    "height": 360,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 0
+  },
+  "沿海滩涂": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 1080
+  },
+  "港口码头用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1364,
+    "y": 1260
+  },
+  "灌木林": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 720,
+    "y": 1080
+  },
+  "盐碱地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 1080,
+    "y": 1080
+  },
+  "监教场所用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1392,
+    "y": 1260
+  },
+  "科教用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1440,
+    "y": 720
+  },
+  "空闲地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1468,
+    "y": 720
+  },
+  "管道运输用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1496,
+    "y": 720
+  },
+  "茶园": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 0,
+    "y": 1260
+  },
+  "街巷用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1524,
+    "y": 720
+  },
+  "裸地": {
+    "height": 180,
+    "pixelRatio": 1.8,
+    "width": 360,
+    "x": 360,
+    "y": 1260
+  },
+  "设施农用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1552,
+    "y": 720
+  },
+  "采矿用地063": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1580,
+    "y": 720
+  },
+  "采矿用地204": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1608,
+    "y": 720
+  },
+  "铁路用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1636,
+    "y": 720
+  },
+  "风景名胜及特殊用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1664,
+    "y": 720
+  },
+  "风景名胜用地": {
+    "height": 28,
+    "pixelRatio": 1.8,
+    "width": 28,
+    "x": 1692,
+    "y": 720
+  }
+}

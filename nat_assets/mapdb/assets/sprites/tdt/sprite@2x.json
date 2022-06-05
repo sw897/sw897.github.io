@@ -1,0 +1,100 @@
+{
+ "thematic_人口": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 0
+ },
+ "thematic_健身场所": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 192,
+  "y": 64
+ },
+ "thematic_加油站": {
+  "height": 58,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 0,
+  "y": 192
+ },
+ "thematic_医疗": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 64
+ },
+ "thematic_国土": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 0
+ },
+ "thematic_学校": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 64
+ },
+ "thematic_小区": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 128
+ },
+ "thematic_景区": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 0
+ },
+ "thematic_法人": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 128
+ },
+ "thematic_自行车": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 192,
+  "y": 128
+ },
+ "thematic_视频": {
+  "height": 50,
+  "pixelRatio": 2,
+  "width": 50,
+  "x": 54,
+  "y": 192
+ },
+ "thematic_警察": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 128
+ },
+ "thematic_财税": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 64
+ },
+ "thematic_银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 192,
+  "y": 0
+ }
+}

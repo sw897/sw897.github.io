@@ -1,0 +1,1829 @@
+{
+ "7-eleven": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 256,
+  "y": 1048
+ },
+ "ATM@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1060,
+  "y": 960
+ },
+ "arrow": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 832,
+  "y": 672
+ },
+ "arrow_l": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 768,
+  "y": 672
+ },
+ "arrow_r": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 864,
+  "y": 672
+ },
+ "boun@1-2": {
+  "height": 16,
+  "pixelRatio": 2,
+  "width": 16,
+  "x": 1212,
+  "y": 1088
+ },
+ "boun@1-3": {
+  "height": 16,
+  "pixelRatio": 2,
+  "width": 16,
+  "x": 1148,
+  "y": 1024
+ },
+ "boun@1-4": {
+  "height": 16,
+  "pixelRatio": 2,
+  "width": 16,
+  "x": 1020,
+  "y": 896
+ },
+ "boun@1-5": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 896,
+  "y": 672
+ },
+ "boundary": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 928,
+  "y": 672
+ },
+ "boundary@0.2-1": {
+  "height": 4,
+  "pixelRatio": 2,
+  "width": 4,
+  "x": 1282,
+  "y": 1073
+ },
+ "boundary@0.2": {
+  "height": 4,
+  "pixelRatio": 2,
+  "width": 4,
+  "x": 1286,
+  "y": 1073
+ },
+ "boundary@0.4": {
+  "height": 8,
+  "pixelRatio": 2,
+  "width": 8,
+  "x": 1282,
+  "y": 1065
+ },
+ "boundary@1-1": {
+  "height": 16,
+  "pixelRatio": 2,
+  "width": 16,
+  "x": 1084,
+  "y": 960
+ },
+ "diban": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 1048
+ },
+ "fangwu_10": {
+  "height": 63,
+  "pixelRatio": 2,
+  "width": 63,
+  "x": 1228,
+  "y": 128
+ },
+ "fangwucun": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 736,
+  "y": 460
+ },
+ "green": {
+  "height": 256,
+  "pixelRatio": 2,
+  "width": 256,
+  "x": 512,
+  "y": 0
+ },
+ "green2": {
+  "height": 256,
+  "pixelRatio": 2,
+  "width": 256,
+  "x": 0,
+  "y": 0
+ },
+ "green2_LOD": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 512,
+  "y": 1048
+ },
+ "green_LOD.webgl": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 128
+ },
+ "land": {
+  "height": 256,
+  "pixelRatio": 2,
+  "width": 256,
+  "x": 256,
+  "y": 0
+ },
+ "land1": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 1024
+ },
+ "land2": {
+  "height": 256,
+  "pixelRatio": 2,
+  "width": 256,
+  "x": 0,
+  "y": 256
+ },
+ "land3": {
+  "height": 256,
+  "pixelRatio": 2,
+  "width": 256,
+  "x": 256,
+  "y": 256
+ },
+ "land4": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 64
+ },
+ "land_LOD": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 128
+ },
+ "marker14": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 795
+ },
+ "marker15": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 309
+ },
+ "marker16": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 903
+ },
+ "marker17": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 363
+ },
+ "marker18": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 417
+ },
+ "marker19": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 471
+ },
+ "marker20": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 525
+ },
+ "marker21": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 579
+ },
+ "marker22": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 633
+ },
+ "marker23": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 687
+ },
+ "marker24": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 741
+ },
+ "marker25": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 1011
+ },
+ "marker26": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 849
+ },
+ "marker7": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 255
+ },
+ "pop1": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 270,
+  "y": 1176
+ },
+ "pop11": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 888,
+  "y": 612
+ },
+ "pop12": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 0,
+  "y": 1176
+ },
+ "pop13": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 54,
+  "y": 1176
+ },
+ "pop14": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 108,
+  "y": 1176
+ },
+ "pop15": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 162,
+  "y": 1176
+ },
+ "pop16": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 216,
+  "y": 1176
+ },
+ "star-15": {
+  "height": 19,
+  "pixelRatio": 2,
+  "width": 19,
+  "x": 748,
+  "y": 256
+ },
+ "thematic_人口": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 704,
+  "y": 920
+ },
+ "thematic_健身场所": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 191
+ },
+ "thematic_加油站": {
+  "height": 58,
+  "pixelRatio": 2,
+  "width": 54,
+  "x": 1228,
+  "y": 1065
+ },
+ "thematic_医疗": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 896,
+  "y": 920
+ },
+ "thematic_国土": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 960,
+  "y": 920
+ },
+ "thematic_学校": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 0
+ },
+ "thematic_小区": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 64
+ },
+ "thematic_景区": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 128
+ },
+ "thematic_法人": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 192
+ },
+ "thematic_电影院": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 256
+ },
+ "thematic_自行车": {
+  "height": 54,
+  "pixelRatio": 2,
+  "width": 62,
+  "x": 1228,
+  "y": 957
+ },
+ "thematic_视频": {
+  "height": 50,
+  "pixelRatio": 2,
+  "width": 50,
+  "x": 1228,
+  "y": 1123
+ },
+ "thematic_警察": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 448
+ },
+ "thematic_财税": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 512
+ },
+ "thematic_银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 576
+ },
+ "ubc咖啡": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 640
+ },
+ "yuan": {
+  "height": 14,
+  "pixelRatio": 2,
+  "width": 14,
+  "x": 1278,
+  "y": 1137
+ },
+ "ywjd": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 544,
+  "y": 460
+ },
+ "上水井盖": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 416
+ },
+ "上海浦东发展银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 896
+ },
+ "上海银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 984
+ },
+ "东亚银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 984
+ },
+ "东营市商业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 984
+ },
+ "个体": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 192,
+  "y": 984
+ },
+ "中信实业": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 256,
+  "y": 984
+ },
+ "中原银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 320,
+  "y": 984
+ },
+ "中国交通银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 384,
+  "y": 984
+ },
+ "中国光大银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 448,
+  "y": 984
+ },
+ "中国农业发展银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 512,
+  "y": 984
+ },
+ "中国农业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 576,
+  "y": 984
+ },
+ "中国工商银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 640,
+  "y": 984
+ },
+ "中国平安": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 704,
+  "y": 984
+ },
+ "中国建设银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 768,
+  "y": 984
+ },
+ "中国民生银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 832,
+  "y": 984
+ },
+ "中国银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 896,
+  "y": 984
+ },
+ "乌鲁木齐市商业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 960,
+  "y": 984
+ },
+ "乡镇": {
+  "height": 14,
+  "pixelRatio": 2,
+  "width": 14,
+  "x": 1278,
+  "y": 1123
+ },
+ "交通信号设施": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 352
+ },
+ "交通标志牌": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 320
+ },
+ "交通灯": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 128
+ },
+ "人民政府@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 732,
+  "y": 632
+ },
+ "人行横道": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 256
+ },
+ "企业": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 320
+ },
+ "伊克": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 384
+ },
+ "体育场馆@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 612,
+  "y": 692
+ },
+ "停车场@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 636,
+  "y": 692
+ },
+ "全家": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 576
+ },
+ "全时": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 640
+ },
+ "公交站亭": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 704
+ },
+ "公交车站@0.5x": {
+  "height": 30,
+  "pixelRatio": 2,
+  "width": 30,
+  "x": 942,
+  "y": 612
+ },
+ "公厕": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 832
+ },
+ "公园@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 684,
+  "y": 692
+ },
+ "公墓@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 732,
+  "y": 692
+ },
+ "兰州银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 1048
+ },
+ "其他@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 936,
+  "y": 716
+ },
+ "其他林地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 768,
+  "y": 204
+ },
+ "其他草地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 768,
+  "y": 408
+ },
+ "内陆滩涂": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 0,
+  "y": 716
+ },
+ "农村信用合作社银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 320,
+  "y": 1048
+ },
+ "农村宅基地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 204,
+  "y": 716
+ },
+ "农贸市场": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 448,
+  "y": 1048
+ },
+ "冰川及永久积雪": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 408,
+  "y": 716
+ },
+ "出租车": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 576,
+  "y": 1048
+ },
+ "剧院@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 936,
+  "y": 776
+ },
+ "加油站": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 704,
+  "y": 1048
+ },
+ "加油站@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 947,
+  "y": 836
+ },
+ "动物园@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 947,
+  "y": 860
+ },
+ "化工": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 896,
+  "y": 1048
+ },
+ "北京银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 960,
+  "y": 1048
+ },
+ "医院@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 324,
+  "y": 1176
+ },
+ "华夏银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1088,
+  "y": 1048
+ },
+ "南京银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 0
+ },
+ "南昌银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 64
+ },
+ "博物馆@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 372,
+  "y": 1176
+ },
+ "危险品运输查询": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 192
+ },
+ "厂矿企业@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 420,
+  "y": 1176
+ },
+ "哈尔滨银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 320
+ },
+ "喜士多": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 384
+ },
+ "国道编号": {
+  "height": 15,
+  "pixelRatio": 2,
+  "width": 30,
+  "x": 512,
+  "y": 492
+ },
+ "圣诞树": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 512
+ },
+ "地灯": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 576
+ },
+ "地铁": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1228,
+  "y": 64
+ },
+ "垃圾箱": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 704
+ },
+ "城镇住宅用地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 612,
+  "y": 716
+ },
+ "基督教@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 468,
+  "y": 1176
+ },
+ "多云": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 896
+ },
+ "大专院校@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 516,
+  "y": 1176
+ },
+ "大厦@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 540,
+  "y": 1176
+ },
+ "大连银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 1112
+ },
+ "天津银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 1112
+ },
+ "学校@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 564,
+  "y": 1176
+ },
+ "宁波银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 192,
+  "y": 1112
+ },
+ "客运汽车站@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 636,
+  "y": 1176
+ },
+ "家乐福": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 320,
+  "y": 1112
+ },
+ "宾馆@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 660,
+  "y": 1176
+ },
+ "小区@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 588,
+  "y": 1176
+ },
+ "幼儿园@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1100,
+  "y": 1024
+ },
+ "广东发展银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 576,
+  "y": 1112
+ },
+ "广告牌": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 800,
+  "y": 672
+ },
+ "广场@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 684,
+  "y": 1176
+ },
+ "广州市商业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 768,
+  "y": 1112
+ },
+ "德克士": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 832,
+  "y": 1112
+ },
+ "德州市商业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 896,
+  "y": 1112
+ },
+ "必胜客": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 960,
+  "y": 1112
+ },
+ "快客": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1024,
+  "y": 1112
+ },
+ "成武农商银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1088,
+  "y": 1112
+ },
+ "成都银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1152,
+  "y": 1112
+ },
+ "我爱我家": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1228,
+  "y": 0
+ },
+ "招商银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 704,
+  "y": 1112
+ },
+ "收费站@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1188,
+  "y": 1088
+ },
+ "政府机关@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 660,
+  "y": 692
+ },
+ "旅行社": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 640,
+  "y": 1112
+ },
+ "明亮": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 512,
+  "y": 1112
+ },
+ "易捷": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 448,
+  "y": 1112
+ },
+ "星巴克": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 384,
+  "y": 1112
+ },
+ "景区": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 256,
+  "y": 1112
+ },
+ "景点": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 288
+ },
+ "景观灯": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 512,
+  "y": 460
+ },
+ "机场@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 612,
+  "y": 1176
+ },
+ "标志": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 1112
+ },
+ "树-1": {
+  "height": 67,
+  "pixelRatio": 2,
+  "width": 67,
+  "x": 816,
+  "y": 836
+ },
+ "树-2": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 960
+ },
+ "树-3": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 832
+ },
+ "树-4": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 640
+ },
+ "树-5": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 448
+ },
+ "树-6": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 256
+ },
+ "植物园@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 396,
+  "y": 1176
+ },
+ "橘框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 816,
+  "y": 716
+ },
+ "欧尚市场": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1024,
+  "y": 1048
+ },
+ "永辉超市": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 832,
+  "y": 1048
+ },
+ "汉堡王": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 768,
+  "y": 1048
+ },
+ "污水井盖": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 608,
+  "y": 460
+ },
+ "汽车@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 936,
+  "y": 800
+ },
+ "沃尔玛": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 640,
+  "y": 1048
+ },
+ "沙地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 768,
+  "y": 0
+ },
+ "河北银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 960
+ },
+ "沼泽地": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 512,
+  "y": 256
+ },
+ "沿海滩涂": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 204,
+  "y": 512
+ },
+ "浙商银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 512
+ },
+ "深圳发展银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 448
+ },
+ "渤海银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 192
+ },
+ "港口@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 942,
+  "y": 642
+ },
+ "游乐场@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 996,
+  "y": 896
+ },
+ "湖州银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 64
+ },
+ "滑雪": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 0
+ },
+ "灌丛沼泽": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 408,
+  "y": 512
+ },
+ "火车": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 832
+ },
+ "火车站@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1124,
+  "y": 1024
+ },
+ "灰尘": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 768
+ },
+ "烟台银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 704
+ },
+ "物美": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 384
+ },
+ "生活方式市场": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1036,
+  "y": 320
+ },
+ "电信@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 348,
+  "y": 1176
+ },
+ "电力井盖": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 704,
+  "y": 460
+ },
+ "电力设施": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 832,
+  "y": 920
+ },
+ "电力设施标识牌": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 732,
+  "y": 512
+ },
+ "电视井盖": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 768,
+  "y": 920
+ },
+ "电视台@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 732,
+  "y": 656
+ },
+ "白鹳-1": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 672,
+  "y": 460
+ },
+ "白鹳-3": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 576,
+  "y": 460
+ },
+ "白鹳": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 732,
+  "y": 572
+ },
+ "盐田": {
+  "height": 204,
+  "pixelRatio": 2,
+  "width": 204,
+  "x": 0,
+  "y": 512
+ },
+ "盛京银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 576,
+  "y": 920
+ },
+ "省道编号": {
+  "height": 15,
+  "pixelRatio": 2,
+  "width": 30,
+  "x": 542,
+  "y": 492
+ },
+ "福建兴业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 512,
+  "y": 920
+ },
+ "移动@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 972,
+  "y": 896
+ },
+ "紫框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 612,
+  "y": 632
+ },
+ "美宜佳": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 384,
+  "y": 920
+ },
+ "联通@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 732,
+  "y": 604
+ },
+ "肯德基": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 320,
+  "y": 920
+ },
+ "自行车@0.5x": {
+  "height": 26,
+  "pixelRatio": 2,
+  "width": 30,
+  "x": 732,
+  "y": 544
+ },
+ "花旗银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 256,
+  "y": 920
+ },
+ "蓝框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 612,
+  "y": 572
+ },
+ "蓝透明框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 612,
+  "y": 512
+ },
+ "试验站": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 64,
+  "y": 920
+ },
+ "购物@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 708,
+  "y": 692
+ },
+ "贵州银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 0,
+  "y": 920
+ },
+ "贵阳市商业银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 832
+ },
+ "超市@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 936,
+  "y": 740
+ },
+ "路灯": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 768
+ },
+ "路障-1": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 704
+ },
+ "路障-2": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 640
+ },
+ "通信交接箱": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 384
+ },
+ "通讯井盖": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 576
+ },
+ "邮局@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1164,
+  "y": 1088
+ },
+ "邮政银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 512
+ },
+ "重庆银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 448
+ },
+ "金华银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 384
+ },
+ "铁路查询": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 320
+ },
+ "银联": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 256
+ },
+ "银行@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 492,
+  "y": 1176
+ },
+ "链家": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 192
+ },
+ "雨-1": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 192,
+  "y": 1048
+ },
+ "雨-2": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 1048
+ },
+ "雨-3": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 896
+ },
+ "雨水井盖": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 640,
+  "y": 460
+ },
+ "雨水篦子": {
+  "height": 32,
+  "pixelRatio": 2,
+  "width": 32,
+  "x": 716,
+  "y": 256
+ },
+ "雪-1": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1100,
+  "y": 768
+ },
+ "雪-2": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1024,
+  "y": 984
+ },
+ "雪-3": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 640,
+  "y": 920
+ },
+ "雪人": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 448,
+  "y": 920
+ },
+ "零售药": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 192,
+  "y": 920
+ },
+ "青岛银行": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 128,
+  "y": 920
+ },
+ "风景名胜@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 444,
+  "y": 1176
+ },
+ "飞机": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 972,
+  "y": 0
+ },
+ "食品": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 883,
+  "y": 836
+ },
+ "食品生产": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 1164,
+  "y": 768
+ },
+ "高速公路编号": {
+  "height": 15,
+  "pixelRatio": 2,
+  "width": 30,
+  "x": 572,
+  "y": 492
+ },
+ "高速服务区@0.5x": {
+  "height": 24,
+  "pixelRatio": 2,
+  "width": 24,
+  "x": 1036,
+  "y": 960
+ },
+ "麦当劳": {
+  "height": 64,
+  "pixelRatio": 2,
+  "width": 64,
+  "x": 384,
+  "y": 1048
+ },
+ "黄框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 768,
+  "y": 612
+ },
+ "黑色透明框": {
+  "height": 60,
+  "pixelRatio": 2,
+  "width": 120,
+  "x": 816,
+  "y": 776
+ }
+}
