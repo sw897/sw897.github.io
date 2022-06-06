@@ -1,7 +1,25 @@
 {
     "filter": {
         "data": ["全部", "邹平市", "博兴县", "惠民县", "滨城区", "阳信县", "沾化区", "无棣县"],
-        "filed": "镇街名"
+        "statisticsNat": true,
+        "statisticsNatField": "县（市、区",
+        "admin4Field": "镇街名"
+    },
+    "boundary": "https://highmap.cn/nat_assets/binzhou/webview/admin2.geojson",
+    "admin4": "https://highmap.cn/nat_assets/binzhou/webview/admin4.geojson",
+    "nat": {
+        "url": "https://highmap.cn/nat_assets/binzhou/data/核酸点.geojson",
+        "popup": {
+            "采样服务点": "采样服务点",
+            "地址": "地址",
+            "联系电话": "联系电话"
+        }
+    },
+    "viewport": {
+        "center": [117.12, 35.0],
+        "zoom": 3,
+        "bearing": 0,
+        "pitch": 0,
+        "touchPitch": false
     }
-
 }

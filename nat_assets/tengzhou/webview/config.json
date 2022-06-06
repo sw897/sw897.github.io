@@ -1,7 +1,25 @@
 {
     "filter": {
-        "data": ["全部", "荆河街道","龙泉街道","北辛街道","善南街道","东沙河镇","洪绪镇","南沙河镇","大坞镇","滨湖镇","级索镇","西岗镇","姜屯镇","鲍沟镇","张汪镇","官桥镇","柴胡店镇","羊庄镇","木石镇","界河镇","龙阳镇","东郭镇"],
-        "filed": "镇街名"
+        "data": ["全部", "荆河街道", "龙泉街道", "北辛街道", "善南街道", "东沙河镇", "洪绪镇", "南沙河镇", "大坞镇", "滨湖镇", "级索镇", "西岗镇", "姜屯镇", "鲍沟镇", "张汪镇", "官桥镇", "柴胡店镇", "羊庄镇", "木石镇", "界河镇", "龙阳镇", "东郭镇"],
+        "statisticsNat": false,
+        "statisticsNatField": "县（市、区",
+        "admin4Field": "镇街名"
+    },
+    "boundary": "https://highmap.cn/nat_assets/tengzhou/webview/admin2.geojson",
+    "admin4": "https://highmap.cn/nat_assets/tengzhou/webview/admin4.geojson",
+    "nat": {
+        "url": "https://highmap.cn/nat_assets/tengzhou/data/滕州核酸检测点.geojson",
+        "popup": {
+            "采样服务点": "采样点",
+            "地址": "地址",
+            "联系电话": "联系电"
+        }
+    },
+    "viewport": {
+        "center": [117.12, 35.0],
+        "zoom": 3,
+        "bearing": 0,
+        "pitch": 0,
+        "touchPitch": false
     }
-
 }
